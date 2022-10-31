@@ -22,7 +22,7 @@ This is most of the Time marked in the Repository if nothing is specified refer 
 ## Our Team
 If you want more Information on special Team Members you find an readme.md inside our .github repository
 
-Team information : [Information Folder](github.com/TheJoSam-Development/.github/team)
+Team information : [Information Folder](https://github.com/TheJoSam-Development/.github/tree/main/team)
 
 <!--
 
