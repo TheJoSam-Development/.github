@@ -19,6 +19,11 @@ on some ocations we have an external Repository for the Documentation this is th
 ## Distribution
 This is most of the Time marked in the Repository if nothing is specified refer to the Licence used on the Project
 
+## Our Team
+If you want more Information on special Team Members you find an readme.md inside our .github repository
+
+Team information : [Information Folder](github.com/TheJoSam-Development/.github/team)
+
 <!--
 
 **Here are some ideas to get you started:**
